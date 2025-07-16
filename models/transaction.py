@@ -1,6 +1,10 @@
-
 from sqlalchemy import Column, Integer, ForeignKey, Date
-from database import Base
+import sys
+import os
+
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
+from database import Base  
 
 class Transaction(Base):
     __tablename__ = 'transactions'
