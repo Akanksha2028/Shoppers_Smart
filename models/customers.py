@@ -12,5 +12,5 @@ class Customer(Base):
     customer_id = Column(Integer, primary_key=True, index=True)
     name = Column(String(100))
     email = Column(String(100))
-    phone_number = Column(String(15))
+    phone_no = Column(String(20))
     location = Column(String(100))
