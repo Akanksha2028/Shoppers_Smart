@@ -1,6 +1,6 @@
-product_id,name,description,price
+product_id,product_name,description,price
 1,Marker Pen - New,Marker Pen - New - Essential household item,612.04
-2,Laptop Stand - New,Laptop Stand - New - Essential household item,1170.0
+2,Laptop Stand - New,Laptop Stand - New - Essential household item,1170
 3,Comb XL,Comb XL - Essential household item,1301.34
 4,Room Freshener - Premium,Room Freshener - Premium - Essential household item,1903.84
 5,Washing Machine Set,Washing Machine Set - Essential household item,1034.08
@@ -15,7 +15,7 @@ product_id,name,description,price
 14,Nail Cutter,Nail Cutter - Essential household item,550.86
 15,Mirror Pack,Mirror Pack - Essential household item,874.27
 16,Hair Brush - New,Hair Brush - New - Essential household item,436.81
-17,Sharpener,Sharpener - Essential household item,529.0
+17,Sharpener,Sharpener - Essential household item,529
 18,Stapler - Premium,Stapler - Premium - Essential household item,937.59
 19,Notebook XL,Notebook XL - Essential household item,1173.61
 20,Water Bottle (Combo),Water Bottle (Combo) - Essential household item,247.1
@@ -120,7 +120,7 @@ product_id,name,description,price
 119,Marker Pen - Premium,Marker Pen - Premium - Essential household item,560.18
 120,Bedsheet - New,Bedsheet - New - Essential household item,123.64
 121,Earphones Pack,Earphones Pack - Essential household item,1126.06
-122,Soap - Premium,Soap - Premium - Essential household item,924.0
+122,Soap - Premium,Soap - Premium - Essential household item,924
 123,Eraser XL,Eraser XL - Essential household item,1383.34
 124,USB Cable,USB Cable - Essential household item,1336.42
 125,Blanket Set,Blanket Set - Essential household item,1153.97
@@ -137,7 +137,7 @@ product_id,name,description,price
 136,Hair Oil - Premium,Hair Oil - Premium - Essential household item,975.18
 137,Pressure Cooker - New,Pressure Cooker - New - Essential household item,1295.32
 138,Eraser - Premium,Eraser - Premium - Essential household item,1164.37
-139,Electric Kettle,Electric Kettle - Essential household item,1892.0
+139,Electric Kettle,Electric Kettle - Essential household item,1892
 140,Memory Card Pack,Memory Card Pack - Essential household item,1335.72
 141,Toothpaste Set,Toothpaste Set - Essential household item,406.61
 142,Paper Clips Pack,Paper Clips Pack - Essential household item,1543.46
@@ -157,7 +157,7 @@ product_id,name,description,price
 156,Bluetooth Speaker - Premium,Bluetooth Speaker - Premium - Essential household item,1048.83
 157,Mixer Grinder Pack,Mixer Grinder Pack - Essential household item,833.92
 158,Cloth Hanger (Combo),Cloth Hanger (Combo) - Essential household item,829.47
-159,Hand Wash - New,Hand Wash - New - Essential household item,169.0
+159,Hand Wash - New,Hand Wash - New - Essential household item,169
 160,Battery Pack,Battery Pack - Essential household item,1951.82
 161,Mosquito Repellent,Mosquito Repellent - Essential household item,806.24
 162,Mirror - New,Mirror - New - Essential household item,135.97
@@ -218,7 +218,7 @@ product_id,name,description,price
 217,Refrigerator - Premium,Refrigerator - Premium - Essential household item,1030.62
 218,Marker - Premium,Marker - Premium - Essential household item,1246.71
 219,Pen Drive - New,Pen Drive - New - Essential household item,450.33
-220,Frying Pan - New,Frying Pan - New - Essential household item,1141.0
+220,Frying Pan - New,Frying Pan - New - Essential household item,1141
 221,Tawa Pack,Tawa Pack - Essential household item,179.86
 222,Hand Sanitizer XL,Hand Sanitizer XL - Essential household item,1242.78
 223,Sticky Notes,Sticky Notes - Essential household item,95.15
