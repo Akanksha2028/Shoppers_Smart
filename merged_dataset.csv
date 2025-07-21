@@ -1,0 +1,301 @@
+transaction_id,customer_id,product_id,purchase_date,name_x,email,phone_number,location,name_y,description,price
+1,42,84,2025-06-19,Aadhya Nair,aadhya.nair@example.com,9025501427,Lucknow,Ceiling Fan - Premium,Ceiling Fan - Premium - Essential household item,1397.48
+2,55,83,2025-05-24,Ishaan Nair,ishaan.nair@example.com,9768045202,Mumbai,Stapler Pack,Stapler Pack - Essential household item,997.22
+3,87,214,2025-06-12,Myra Chatterjee,myra.chatterjee@example.com,9779426304,Patna,Scissors (Combo),Scissors (Combo) - Essential household item,1171.84
+4,15,169,2025-06-25,Riya Nair,riya.nair@example.com,9101612239,Mumbai,Memory Card XL,Memory Card XL - Essential household item,1922.17
+5,78,179,2025-05-23,Myra Nair,myra.nair@example.com,9319718430,Delhi,Broom (Combo),Broom (Combo) - Essential household item,683.59
+6,11,22,2025-07-04,Aarohi Pandey,aarohi.pandey@example.com,9089009514,Bangalore,Whiteboard (Combo),Whiteboard (Combo) - Essential household item,176.7
+7,79,234,2025-04-19,Saanvi Bhatt,saanvi.bhatt@example.com,9684649805,Bangalore,Power Bank Set,Power Bank Set - Essential household item,964.86
+8,76,61,2025-05-29,Aarohi Mehta,aarohi.mehta@example.com,9199110111,Pune,Lotion Set,Lotion Set - Essential household item,1455.44
+9,74,187,2025-07-08,Aanya Bhatt,aanya.bhatt@example.com,9423221343,Mumbai,Earphones - New,Earphones - New - Essential household item,564.7
+10,14,28,2025-04-24,Navya Reddy,navya.reddy@example.com,9680175077,Indore,Washing Machine - Premium,Washing Machine - Premium - Essential household item,936.69
+11,71,61,2025-06-24,Pari Reddy,pari.reddy@example.com,9416768670,Kolkata,Lotion Set,Lotion Set - Essential household item,1455.44
+12,32,69,2025-05-02,Aanya Bhatt,aanya.bhatt@example.com,9829651775,Chennai,Pillow Pack,Pillow Pack - Essential household item,254.85
+13,56,70,2025-04-23,Anvi Naik,anvi.naik@example.com,9915169130,Hyderabad,Water Bottle Set,Water Bottle Set - Essential household item,1414.44
+14,88,2,2025-07-06,Riya Verma,riya.verma@example.com,9086280286,Bangalore,Laptop Stand - New,Laptop Stand - New - Essential household item,1170.0
+15,45,37,2025-05-23,Ishita Mehta,ishita.mehta@example.com,9398613942,Ahmedabad,Bluetooth Speaker (Combo),Bluetooth Speaker (Combo) - Essential household item,730.19
+16,31,57,2025-07-07,Myra Deshmukh,myra.deshmukh@example.com,9870583151,Bangalore,Gas Lighter - Premium,Gas Lighter - Premium - Essential household item,856.5
+17,80,202,2025-05-22,Diya Deshmukh,diya.deshmukh@example.com,9586907011,Lucknow,Mouse (Combo),Mouse (Combo) - Essential household item,522.91
+18,64,157,2025-04-18,Aarav Pandey,aarav.pandey@example.com,9306203044,Nagpur,Mixer Grinder Pack,Mixer Grinder Pack - Essential household item,833.92
+19,64,215,2025-06-19,Aarav Pandey,aarav.pandey@example.com,9306203044,Nagpur,Wall Clock XL,Wall Clock XL - Essential household item,1710.09
+20,35,224,2025-05-11,Pihu Pandey,pihu.pandey@example.com,9656947420,Hyderabad,Refrigerator Pack,Refrigerator Pack - Essential household item,1690.91
+21,37,183,2025-05-06,Navya Sharma,navya.sharma@example.com,9998835531,Surat,Trash Bags,Trash Bags - Essential household item,465.22
+22,19,196,2025-07-12,Anvi Sharma,anvi.sharma@example.com,9687122912,Kolkata,Spoon Set Pack,Spoon Set Pack - Essential household item,1399.91
+23,30,190,2025-04-23,Pihu Yadav,pihu.yadav@example.com,9205107555,Bangalore,Razor Pack,Razor Pack - Essential household item,1782.86
+24,50,113,2025-06-24,Ishita Naik,ishita.naik@example.com,9772454687,Bhopal,Dustbin - Premium,Dustbin - Premium - Essential household item,1672.92
+25,86,102,2025-04-26,Meera Reddy,meera.reddy@example.com,9945196338,Nagpur,Mobile Charger Pack,Mobile Charger Pack - Essential household item,1026.46
+26,46,31,2025-07-05,Ayaan Mehta,ayaan.mehta@example.com,9758512344,Bhopal,Water Bottle,Water Bottle - Essential household item,1510.11
+27,19,203,2025-06-15,Anvi Sharma,anvi.sharma@example.com,9687122912,Kolkata,Laundry Bag - New,Laundry Bag - New - Essential household item,411.55
+28,13,26,2025-07-05,Tanvi Sharma,tanvi.sharma@example.com,9889040040,Bhopal,Washing Machine (Combo),Washing Machine (Combo) - Essential household item,1659.03
+29,99,234,2025-04-20,Arjun Chatterjee,arjun.chatterjee@example.com,9299110199,Hyderabad,Power Bank Set,Power Bank Set - Essential household item,964.86
+30,93,1,2025-05-12,Kavya Dixit,kavya.dixit@example.com,9877341291,Jaipur,Marker Pen - New,Marker Pen - New - Essential household item,612.04
+31,97,239,2025-07-12,Aarav Choudhary,aarav.choudhary@example.com,9191767034,Jaipur,Mobile Charger - New,Mobile Charger - New - Essential household item,1628.29
+32,29,230,2025-07-05,Anaya Choudhary,anaya.choudhary@example.com,9608561711,Surat,Raincoat,Raincoat - Essential household item,277.89
+33,95,130,2025-06-22,Ayaan Naik,ayaan.naik@example.com,9961056843,Indore,Thermos,Thermos - Essential household item,1977.13
+34,74,230,2025-06-03,Aanya Bhatt,aanya.bhatt@example.com,9423221343,Mumbai,Raincoat,Raincoat - Essential household item,277.89
+35,27,202,2025-06-09,Krishna Sharma,krishna.sharma@example.com,9847710509,Kolkata,Mouse (Combo),Mouse (Combo) - Essential household item,522.91
+36,84,212,2025-05-08,Myra Kapoor,myra.kapoor@example.com,9243794422,Kolkata,Microwave (Combo),Microwave (Combo) - Essential household item,106.26
+37,88,203,2025-05-19,Riya Verma,riya.verma@example.com,9086280286,Bangalore,Laundry Bag - New,Laundry Bag - New - Essential household item,411.55
+38,55,49,2025-05-22,Ishaan Nair,ishaan.nair@example.com,9768045202,Mumbai,USB Cable (Combo),USB Cable (Combo) - Essential household item,800.7
+39,67,220,2025-06-01,Pihu Nair,pihu.nair@example.com,9622049855,Chennai,Frying Pan - New,Frying Pan - New - Essential household item,1141.0
+40,94,80,2025-05-13,Ishaan Nair,ishaan.nair@example.com,9871294438,Chennai,Thermos (Combo),Thermos (Combo) - Essential household item,1797.56
+41,51,135,2025-06-14,Aditya Patel,aditya.patel@example.com,9228906217,Patna,Mouthwash Pack,Mouthwash Pack - Essential household item,759.18
+42,46,10,2025-05-16,Ayaan Mehta,ayaan.mehta@example.com,9758512344,Bhopal,Water Bottle - New,Water Bottle - New - Essential household item,85.75
+43,83,18,2025-05-08,Nitya Naik,nitya.naik@example.com,9880107086,Bangalore,Stapler - Premium,Stapler - Premium - Essential household item,937.59
+44,97,161,2025-05-06,Aarav Choudhary,aarav.choudhary@example.com,9191767034,Jaipur,Mosquito Repellent,Mosquito Repellent - Essential household item,806.24
+45,32,110,2025-07-02,Aanya Bhatt,aanya.bhatt@example.com,9829651775,Chennai,Ruler Set,Ruler Set - Essential household item,40.23
+46,66,63,2025-06-24,Aditya Kapoor,aditya.kapoor@example.com,9972852218,Ahmedabad,Thermos Pack,Thermos Pack - Essential household item,1775.44
+47,87,155,2025-05-11,Myra Chatterjee,myra.chatterjee@example.com,9779426304,Patna,Shaving Cream XL,Shaving Cream XL - Essential household item,1439.36
+48,49,186,2025-05-18,Myra Reddy,myra.reddy@example.com,9616742240,Bhopal,Eraser (Combo),Eraser (Combo) - Essential household item,1056.78
+49,44,175,2025-05-30,Ira Mehta,ira.mehta@example.com,9301634576,Ahmedabad,Refrigerator XL,Refrigerator XL - Essential household item,656.3
+50,38,66,2025-04-19,Aarohi Kapoor,aarohi.kapoor@example.com,9314312392,Pune,Mug,Mug - Essential household item,319.69
+51,1,77,2025-05-24,Ishaan Chatterjee,ishaan.chatterjee@example.com,9268756272,Ahmedabad,Extension Board Pack,Extension Board Pack - Essential household item,1603.33
+52,93,221,2025-07-02,Kavya Dixit,kavya.dixit@example.com,9877341291,Jaipur,Tawa Pack,Tawa Pack - Essential household item,179.86
+53,82,11,2025-06-03,Anvi Kapoor,anvi.kapoor@example.com,9145708507,Patna,Table Fan,Table Fan - Essential household item,1772.09
+54,68,207,2025-05-29,Aditya Nair,aditya.nair@example.com,9854495246,Patna,Printer Ink (Combo),Printer Ink (Combo) - Essential household item,1229.04
+55,32,193,2025-06-25,Aanya Bhatt,aanya.bhatt@example.com,9829651775,Chennai,Pencil Set,Pencil Set - Essential household item,593.87
+56,83,107,2025-05-18,Nitya Naik,nitya.naik@example.com,9880107086,Bangalore,Microwave Set,Microwave Set - Essential household item,274.4
+57,92,144,2025-06-19,Vivaan Agarwal,vivaan.agarwal@example.com,9575415411,Bhopal,Microwave - Premium,Microwave - Premium - Essential household item,719.33
+58,15,108,2025-04-18,Riya Nair,riya.nair@example.com,9101612239,Mumbai,Laptop Stand Set,Laptop Stand Set - Essential household item,1457.83
+59,70,111,2025-04-27,Ira Chatterjee,ira.chatterjee@example.com,9865753090,Nagpur,Blanket Pack,Blanket Pack - Essential household item,813.59
+60,71,125,2025-04-27,Pari Reddy,pari.reddy@example.com,9416768670,Kolkata,Blanket Set,Blanket Set - Essential household item,1153.97
+61,73,163,2025-05-02,Ira Pandey,ira.pandey@example.com,9253595709,Chennai,Razor - New,Razor - New - Essential household item,1610.54
+62,48,36,2025-05-18,Tanvi Joshi,tanvi.joshi@example.com,9272404934,Bangalore,Blanket - New,Blanket - New - Essential household item,1453.75
+63,18,64,2025-06-17,Ira Chatterjee,ira.chatterjee@example.com,9311759889,Jaipur,Tissue Box - Premium,Tissue Box - Premium - Essential household item,53.38
+64,92,1,2025-06-04,Vivaan Agarwal,vivaan.agarwal@example.com,9575415411,Bhopal,Marker Pen - New,Marker Pen - New - Essential household item,612.04
+65,40,122,2025-05-06,Aanya Mishra,aanya.mishra@example.com,9308914773,Patna,Soap - Premium,Soap - Premium - Essential household item,924.0
+66,14,227,2025-04-20,Navya Reddy,navya.reddy@example.com,9680175077,Indore,Wall Clock - Premium,Wall Clock - Premium - Essential household item,671.32
+67,91,141,2025-05-28,Diya Bhatt,diya.bhatt@example.com,9569573794,Lucknow,Toothpaste Set,Toothpaste Set - Essential household item,406.61
+68,17,153,2025-07-05,Riya Pandey,riya.pandey@example.com,9467501656,Delhi,Hair Oil - New,Hair Oil - New - Essential household item,890.42
+69,44,180,2025-05-09,Ira Mehta,ira.mehta@example.com,9301634576,Ahmedabad,Bucket - New,Bucket - New - Essential household item,1939.36
+70,19,83,2025-06-02,Anvi Sharma,anvi.sharma@example.com,9687122912,Kolkata,Stapler Pack,Stapler Pack - Essential household item,997.22
+71,9,114,2025-06-02,Pihu Nair,pihu.nair@example.com,9825970012,Chennai,Trash Bags XL,Trash Bags XL - Essential household item,1378.46
+72,15,142,2025-06-22,Riya Nair,riya.nair@example.com,9101612239,Mumbai,Paper Clips Pack,Paper Clips Pack - Essential household item,1543.46
+73,35,235,2025-05-18,Pihu Pandey,pihu.pandey@example.com,9656947420,Hyderabad,Chalk XL,Chalk XL - Essential household item,655.91
+74,100,39,2025-06-15,Ishita Pandey,ishita.pandey@example.com,9140829094,Bhopal,Wall Clock Pack,Wall Clock Pack - Essential household item,45.59
+75,31,98,2025-05-24,Myra Deshmukh,myra.deshmukh@example.com,9870583151,Bangalore,Highlighter,Highlighter - Essential household item,1817.13
+76,35,22,2025-06-14,Pihu Pandey,pihu.pandey@example.com,9656947420,Hyderabad,Whiteboard (Combo),Whiteboard (Combo) - Essential household item,176.7
+77,8,72,2025-05-11,Pari Pandey,pari.pandey@example.com,9854841162,Mumbai,Pencil (Combo),Pencil (Combo) - Essential household item,1546.93
+78,1,208,2025-05-02,Ishaan Chatterjee,ishaan.chatterjee@example.com,9268756272,Ahmedabad,Highlighter Pack,Highlighter Pack - Essential household item,586.23
+79,80,108,2025-07-07,Diya Deshmukh,diya.deshmukh@example.com,9586907011,Lucknow,Laptop Stand Set,Laptop Stand Set - Essential household item,1457.83
+80,54,204,2025-04-20,Kavya Sharma,kavya.sharma@example.com,9746670574,Delhi,Sticky Notes (Combo),Sticky Notes (Combo) - Essential household item,995.12
+81,39,69,2025-07-11,Sai Mehta,sai.mehta@example.com,9685269123,Ahmedabad,Pillow Pack,Pillow Pack - Essential household item,254.85
+82,80,234,2025-05-11,Diya Deshmukh,diya.deshmukh@example.com,9586907011,Lucknow,Power Bank Set,Power Bank Set - Essential household item,964.86
+83,92,106,2025-04-22,Vivaan Agarwal,vivaan.agarwal@example.com,9575415411,Bhopal,Dish Wash - New,Dish Wash - New - Essential household item,1307.54
+84,74,173,2025-05-04,Aanya Bhatt,aanya.bhatt@example.com,9423221343,Mumbai,Desk Organizer (Combo),Desk Organizer (Combo) - Essential household item,1417.2
+85,5,225,2025-06-26,Pari Nair,pari.nair@example.com,9332447447,Jaipur,Blanket XL,Blanket XL - Essential household item,1481.98
+86,7,153,2025-05-10,Ishita Bhatt,ishita.bhatt@example.com,9408084863,Mumbai,Hair Oil - New,Hair Oil - New - Essential household item,890.42
+87,19,89,2025-06-23,Anvi Sharma,anvi.sharma@example.com,9687122912,Kolkata,Room Freshener XL,Room Freshener XL - Essential household item,1856.82
+88,29,51,2025-04-19,Anaya Choudhary,anaya.choudhary@example.com,9608561711,Surat,Glue Stick - New,Glue Stick - New - Essential household item,1575.34
+89,40,140,2025-04-20,Aanya Mishra,aanya.mishra@example.com,9308914773,Patna,Memory Card Pack,Memory Card Pack - Essential household item,1335.72
+90,24,56,2025-04-22,Reyansh Mishra,reyansh.mishra@example.com,9426154874,Mumbai,Mosquito Repellent - New,Mosquito Repellent - New - Essential household item,1005.59
+91,50,234,2025-06-14,Ishita Naik,ishita.naik@example.com,9772454687,Bhopal,Power Bank Set,Power Bank Set - Essential household item,964.86
+92,73,57,2025-05-26,Ira Pandey,ira.pandey@example.com,9253595709,Chennai,Gas Lighter - Premium,Gas Lighter - Premium - Essential household item,856.5
+93,94,36,2025-05-22,Ishaan Nair,ishaan.nair@example.com,9871294438,Chennai,Blanket - New,Blanket - New - Essential household item,1453.75
+94,84,239,2025-05-18,Myra Kapoor,myra.kapoor@example.com,9243794422,Kolkata,Mobile Charger - New,Mobile Charger - New - Essential household item,1628.29
+95,99,113,2025-07-10,Arjun Chatterjee,arjun.chatterjee@example.com,9299110199,Hyderabad,Dustbin - Premium,Dustbin - Premium - Essential household item,1672.92
+96,48,223,2025-07-07,Tanvi Joshi,tanvi.joshi@example.com,9272404934,Bangalore,Sticky Notes,Sticky Notes - Essential household item,95.15
+97,56,209,2025-04-25,Anvi Naik,anvi.naik@example.com,9915169130,Hyderabad,Iron - Premium,Iron - Premium - Essential household item,302.88
+98,45,78,2025-06-21,Ishita Mehta,ishita.mehta@example.com,9398613942,Ahmedabad,Memory Card (Combo),Memory Card (Combo) - Essential household item,1426.09
+99,82,25,2025-05-23,Anvi Kapoor,anvi.kapoor@example.com,9145708507,Patna,Shampoo - Premium,Shampoo - Premium - Essential household item,1646.81
+100,96,57,2025-07-11,Meera Bhatt,meera.bhatt@example.com,9705946928,Hyderabad,Gas Lighter - Premium,Gas Lighter - Premium - Essential household item,856.5
+101,53,244,2025-06-08,Aanya Joshi,aanya.joshi@example.com,9788856192,Bangalore,Gas Lighter,Gas Lighter - Essential household item,1603.92
+102,87,224,2025-06-15,Myra Chatterjee,myra.chatterjee@example.com,9779426304,Patna,Refrigerator Pack,Refrigerator Pack - Essential household item,1690.91
+103,48,121,2025-05-23,Tanvi Joshi,tanvi.joshi@example.com,9272404934,Bangalore,Earphones Pack,Earphones Pack - Essential household item,1126.06
+104,14,154,2025-07-06,Navya Reddy,navya.reddy@example.com,9680175077,Indore,Tissue Box - New,Tissue Box - New - Essential household item,1909.46
+105,83,2,2025-07-11,Nitya Naik,nitya.naik@example.com,9880107086,Bangalore,Laptop Stand - New,Laptop Stand - New - Essential household item,1170.0
+106,17,121,2025-05-07,Riya Pandey,riya.pandey@example.com,9467501656,Delhi,Earphones Pack,Earphones Pack - Essential household item,1126.06
+107,67,28,2025-04-24,Pihu Nair,pihu.nair@example.com,9622049855,Chennai,Washing Machine - Premium,Washing Machine - Premium - Essential household item,936.69
+108,50,4,2025-07-12,Ishita Naik,ishita.naik@example.com,9772454687,Bhopal,Room Freshener - Premium,Room Freshener - Premium - Essential household item,1903.84
+109,8,150,2025-05-31,Pari Pandey,pari.pandey@example.com,9854841162,Mumbai,Mattress Pack,Mattress Pack - Essential household item,537.48
+110,53,14,2025-06-05,Aanya Joshi,aanya.joshi@example.com,9788856192,Bangalore,Nail Cutter,Nail Cutter - Essential household item,550.86
+111,65,25,2025-04-22,Sai Dixit,sai.dixit@example.com,9081174351,Indore,Shampoo - Premium,Shampoo - Premium - Essential household item,1646.81
+112,71,26,2025-05-09,Pari Reddy,pari.reddy@example.com,9416768670,Kolkata,Washing Machine (Combo),Washing Machine (Combo) - Essential household item,1659.03
+113,95,193,2025-04-24,Ayaan Naik,ayaan.naik@example.com,9961056843,Indore,Pencil Set,Pencil Set - Essential household item,593.87
+114,61,228,2025-06-01,Nitya Chatterjee,nitya.chatterjee@example.com,9643450279,Hyderabad,Eraser,Eraser - Essential household item,682.32
+115,95,77,2025-05-26,Ayaan Naik,ayaan.naik@example.com,9961056843,Indore,Extension Board Pack,Extension Board Pack - Essential household item,1603.33
+116,47,10,2025-06-30,Krishna Mehta,krishna.mehta@example.com,9812569374,Patna,Water Bottle - New,Water Bottle - New - Essential household item,85.75
+117,55,32,2025-05-07,Ishaan Nair,ishaan.nair@example.com,9768045202,Mumbai,Laptop Stand (Combo),Laptop Stand (Combo) - Essential household item,1451.75
+118,53,82,2025-05-25,Aanya Joshi,aanya.joshi@example.com,9788856192,Bangalore,Slippers XL,Slippers XL - Essential household item,1556.14
+119,77,181,2025-05-29,Tanvi Agarwal,tanvi.agarwal@example.com,9380603000,Nagpur,Keyboard Pack,Keyboard Pack - Essential household item,1511.61
+120,50,103,2025-04-25,Ishita Naik,ishita.naik@example.com,9772454687,Bhopal,Memory Card Set,Memory Card Set - Essential household item,786.57
+121,66,24,2025-05-09,Aditya Kapoor,aditya.kapoor@example.com,9972852218,Ahmedabad,Face Mask (Combo),Face Mask (Combo) - Essential household item,1984.93
+122,85,239,2025-05-10,Aadhya Joshi,aadhya.joshi@example.com,9542377383,Delhi,Mobile Charger - New,Mobile Charger - New - Essential household item,1628.29
+123,21,125,2025-06-04,Nitya Reddy,nitya.reddy@example.com,9035965894,Ahmedabad,Blanket Set,Blanket Set - Essential household item,1153.97
+124,41,149,2025-06-08,Sara Kumar,sara.kumar@example.com,9407356562,Hyderabad,Desk Organizer Set,Desk Organizer Set - Essential household item,1041.77
+125,91,236,2025-05-02,Diya Bhatt,diya.bhatt@example.com,9569573794,Lucknow,Pencil Pack,Pencil Pack - Essential household item,1636.49
+126,81,139,2025-07-06,Nitya Reddy,nitya.reddy@example.com,9606100779,Lucknow,Electric Kettle,Electric Kettle - Essential household item,1892.0
+127,53,228,2025-04-28,Aanya Joshi,aanya.joshi@example.com,9788856192,Bangalore,Eraser,Eraser - Essential household item,682.32
+128,34,188,2025-07-04,Avni Rastogi,avni.rastogi@example.com,9245641588,Ahmedabad,Tissue Box XL,Tissue Box XL - Essential household item,1841.59
+129,34,61,2025-05-28,Avni Rastogi,avni.rastogi@example.com,9245641588,Ahmedabad,Lotion Set,Lotion Set - Essential household item,1455.44
+130,86,86,2025-06-17,Meera Reddy,meera.reddy@example.com,9945196338,Nagpur,Bluetooth Speaker,Bluetooth Speaker - Essential household item,210.47
+131,58,136,2025-04-19,Ira Bhatt,ira.bhatt@example.com,9881749646,Bangalore,Hair Oil - Premium,Hair Oil - Premium - Essential household item,975.18
+132,48,192,2025-04-24,Tanvi Joshi,tanvi.joshi@example.com,9272404934,Bangalore,Tawa,Tawa - Essential household item,770.29
+133,19,60,2025-06-28,Anvi Sharma,anvi.sharma@example.com,9687122912,Kolkata,Curtains - Premium,Curtains - Premium - Essential household item,405.66
+134,100,18,2025-05-12,Ishita Pandey,ishita.pandey@example.com,9140829094,Bhopal,Stapler - Premium,Stapler - Premium - Essential household item,937.59
+135,46,170,2025-04-24,Ayaan Mehta,ayaan.mehta@example.com,9758512344,Bhopal,Socks - Premium,Socks - Premium - Essential household item,555.36
+136,3,79,2025-05-26,Vivaan Bhatt,vivaan.bhatt@example.com,9465970493,Jaipur,Trash Bags (Combo),Trash Bags (Combo) - Essential household item,130.63
+137,38,153,2025-06-26,Aarohi Kapoor,aarohi.kapoor@example.com,9314312392,Pune,Hair Oil - New,Hair Oil - New - Essential household item,890.42
+138,54,5,2025-04-26,Kavya Sharma,kavya.sharma@example.com,9746670574,Delhi,Washing Machine Set,Washing Machine Set - Essential household item,1034.08
+139,41,171,2025-05-16,Sara Kumar,sara.kumar@example.com,9407356562,Hyderabad,Mouthwash - New,Mouthwash - New - Essential household item,537.74
+140,85,225,2025-06-03,Aadhya Joshi,aadhya.joshi@example.com,9542377383,Delhi,Blanket XL,Blanket XL - Essential household item,1481.98
+141,77,123,2025-07-14,Tanvi Agarwal,tanvi.agarwal@example.com,9380603000,Nagpur,Eraser XL,Eraser XL - Essential household item,1383.34
+142,98,180,2025-04-29,Tanvi Sharma,tanvi.sharma@example.com,9166263469,Indore,Bucket - New,Bucket - New - Essential household item,1939.36
+143,4,111,2025-05-30,Navya Chatterjee,navya.chatterjee@example.com,9751490806,Mumbai,Blanket Pack,Blanket Pack - Essential household item,813.59
+144,15,101,2025-05-28,Riya Nair,riya.nair@example.com,9101612239,Mumbai,Shampoo - New,Shampoo - New - Essential household item,1782.66
+145,42,143,2025-06-11,Aadhya Nair,aadhya.nair@example.com,9025501427,Lucknow,Hair Oil,Hair Oil - Essential household item,517.96
+146,14,106,2025-06-18,Navya Reddy,navya.reddy@example.com,9680175077,Indore,Dish Wash - New,Dish Wash - New - Essential household item,1307.54
+147,67,107,2025-06-14,Pihu Nair,pihu.nair@example.com,9622049855,Chennai,Microwave Set,Microwave Set - Essential household item,274.4
+148,61,127,2025-06-23,Nitya Chatterjee,nitya.chatterjee@example.com,9643450279,Hyderabad,Chair Cushion - New,Chair Cushion - New - Essential household item,1170.14
+149,65,177,2025-06-09,Sai Dixit,sai.dixit@example.com,9081174351,Indore,Face Mask - New,Face Mask - New - Essential household item,225.21
+150,59,60,2025-06-09,Aarav Dixit,aarav.dixit@example.com,9615341802,Jaipur,Curtains - Premium,Curtains - Premium - Essential household item,405.66
+151,32,95,2025-05-07,Aanya Bhatt,aanya.bhatt@example.com,9829651775,Chennai,LED Bulb - New,LED Bulb - New - Essential household item,1718.41
+152,50,48,2025-06-30,Ishita Naik,ishita.naik@example.com,9772454687,Bhopal,USB Cable - New,USB Cable - New - Essential household item,312.34
+153,6,59,2025-06-03,Tanvi Sharma,tanvi.sharma@example.com,9187753781,Ahmedabad,Lunch Box,Lunch Box - Essential household item,1300.11
+154,60,45,2025-05-14,Navya Joshi,navya.joshi@example.com,9208020268,Jaipur,Hand Wash - Premium,Hand Wash - Premium - Essential household item,1457.2
+155,83,40,2025-05-27,Nitya Naik,nitya.naik@example.com,9880107086,Bangalore,Trash Bags - Premium,Trash Bags - Premium - Essential household item,1676.93
+156,23,168,2025-05-30,Meera Patel,meera.patel@example.com,9305451385,Kolkata,Hair Oil (Combo),Hair Oil (Combo) - Essential household item,1608.31
+157,68,142,2025-07-14,Aditya Nair,aditya.nair@example.com,9854495246,Patna,Paper Clips Pack,Paper Clips Pack - Essential household item,1543.46
+158,17,153,2025-06-06,Riya Pandey,riya.pandey@example.com,9467501656,Delhi,Hair Oil - New,Hair Oil - New - Essential household item,890.42
+159,35,130,2025-04-29,Pihu Pandey,pihu.pandey@example.com,9656947420,Hyderabad,Thermos,Thermos - Essential household item,1977.13
+160,64,74,2025-06-08,Aarav Pandey,aarav.pandey@example.com,9306203044,Nagpur,Tawa Set,Tawa Set - Essential household item,211.05
+161,93,62,2025-07-13,Kavya Dixit,kavya.dixit@example.com,9877341291,Jaipur,Paper Clips (Combo),Paper Clips (Combo) - Essential household item,615.61
+162,22,81,2025-05-17,Tanvi Kapoor,tanvi.kapoor@example.com,9016847050,Indore,Marker Pen,Marker Pen - Essential household item,643.06
+163,86,205,2025-07-07,Meera Reddy,meera.reddy@example.com,9945196338,Nagpur,Lunch Box - New,Lunch Box - New - Essential household item,518.35
+164,86,33,2025-06-04,Meera Reddy,meera.reddy@example.com,9945196338,Nagpur,Laundry Bag - Premium,Laundry Bag - Premium - Essential household item,652.74
+165,4,194,2025-06-22,Navya Chatterjee,navya.chatterjee@example.com,9751490806,Mumbai,Electric Kettle XL,Electric Kettle XL - Essential household item,1457.27
+166,33,7,2025-05-24,Krishna Mehta,krishna.mehta@example.com,9574441008,Delhi,Scissors XL,Scissors XL - Essential household item,738.34
+167,72,91,2025-05-17,Aarav Mehta,aarav.mehta@example.com,9273177606,Ahmedabad,Keyboard - Premium,Keyboard - Premium - Essential household item,1494.26
+168,40,179,2025-05-29,Aanya Mishra,aanya.mishra@example.com,9308914773,Patna,Broom (Combo),Broom (Combo) - Essential household item,683.59
+169,60,98,2025-06-11,Navya Joshi,navya.joshi@example.com,9208020268,Jaipur,Highlighter,Highlighter - Essential household item,1817.13
+170,91,215,2025-04-22,Diya Bhatt,diya.bhatt@example.com,9569573794,Lucknow,Wall Clock XL,Wall Clock XL - Essential household item,1710.09
+171,59,226,2025-06-16,Aarav Dixit,aarav.dixit@example.com,9615341802,Jaipur,Mouse - New,Mouse - New - Essential household item,241.74
+172,19,215,2025-06-05,Anvi Sharma,anvi.sharma@example.com,9687122912,Kolkata,Wall Clock XL,Wall Clock XL - Essential household item,1710.09
+173,22,243,2025-05-29,Tanvi Kapoor,tanvi.kapoor@example.com,9016847050,Indore,Duster,Duster - Essential household item,1081.37
+174,95,49,2025-06-01,Ayaan Naik,ayaan.naik@example.com,9961056843,Indore,USB Cable (Combo),USB Cable (Combo) - Essential household item,800.7
+175,37,204,2025-05-23,Navya Sharma,navya.sharma@example.com,9998835531,Surat,Sticky Notes (Combo),Sticky Notes (Combo) - Essential household item,995.12
+176,1,233,2025-05-01,Ishaan Chatterjee,ishaan.chatterjee@example.com,9268756272,Ahmedabad,Toothpaste - New,Toothpaste - New - Essential household item,540.18
+177,78,219,2025-06-29,Myra Nair,myra.nair@example.com,9319718430,Delhi,Pen Drive - New,Pen Drive - New - Essential household item,450.33
+178,77,53,2025-06-15,Tanvi Agarwal,tanvi.agarwal@example.com,9380603000,Nagpur,Pillow - New,Pillow - New - Essential household item,375.44
+179,46,160,2025-06-24,Ayaan Mehta,ayaan.mehta@example.com,9758512344,Bhopal,Battery Pack,Battery Pack - Essential household item,1951.82
+180,1,223,2025-06-25,Ishaan Chatterjee,ishaan.chatterjee@example.com,9268756272,Ahmedabad,Sticky Notes,Sticky Notes - Essential household item,95.15
+181,95,233,2025-07-04,Ayaan Naik,ayaan.naik@example.com,9961056843,Indore,Toothpaste - New,Toothpaste - New - Essential household item,540.18
+182,92,163,2025-05-18,Vivaan Agarwal,vivaan.agarwal@example.com,9575415411,Bhopal,Razor - New,Razor - New - Essential household item,1610.54
+183,77,156,2025-07-07,Tanvi Agarwal,tanvi.agarwal@example.com,9380603000,Nagpur,Bluetooth Speaker - Premium,Bluetooth Speaker - Premium - Essential household item,1048.83
+184,50,177,2025-05-16,Ishita Naik,ishita.naik@example.com,9772454687,Bhopal,Face Mask - New,Face Mask - New - Essential household item,225.21
+185,61,63,2025-06-03,Nitya Chatterjee,nitya.chatterjee@example.com,9643450279,Hyderabad,Thermos Pack,Thermos Pack - Essential household item,1775.44
+186,58,192,2025-05-14,Ira Bhatt,ira.bhatt@example.com,9881749646,Bangalore,Tawa,Tawa - Essential household item,770.29
+187,34,170,2025-06-02,Avni Rastogi,avni.rastogi@example.com,9245641588,Ahmedabad,Socks - Premium,Socks - Premium - Essential household item,555.36
+188,61,24,2025-07-04,Nitya Chatterjee,nitya.chatterjee@example.com,9643450279,Hyderabad,Face Mask (Combo),Face Mask (Combo) - Essential household item,1984.93
+189,52,9,2025-06-07,Pari Mishra,pari.mishra@example.com,9303155861,Kolkata,Keyboard - New,Keyboard - New - Essential household item,1349.29
+190,55,216,2025-06-22,Ishaan Nair,ishaan.nair@example.com,9768045202,Mumbai,Memory Card - New,Memory Card - New - Essential household item,1334.53
+191,61,244,2025-05-11,Nitya Chatterjee,nitya.chatterjee@example.com,9643450279,Hyderabad,Gas Lighter,Gas Lighter - Essential household item,1603.92
+192,45,48,2025-04-23,Ishita Mehta,ishita.mehta@example.com,9398613942,Ahmedabad,USB Cable - New,USB Cable - New - Essential household item,312.34
+193,76,102,2025-07-10,Aarohi Mehta,aarohi.mehta@example.com,9199110111,Pune,Mobile Charger Pack,Mobile Charger Pack - Essential household item,1026.46
+194,39,106,2025-06-28,Sai Mehta,sai.mehta@example.com,9685269123,Ahmedabad,Dish Wash - New,Dish Wash - New - Essential household item,1307.54
+195,49,190,2025-05-21,Myra Reddy,myra.reddy@example.com,9616742240,Bhopal,Razor Pack,Razor Pack - Essential household item,1782.86
+196,79,249,2025-05-18,Saanvi Bhatt,saanvi.bhatt@example.com,9684649805,Bangalore,Paper Clips - New,Paper Clips - New - Essential household item,1165.1
+197,43,5,2025-05-03,Saanvi Mishra,saanvi.mishra@example.com,9278430920,Mumbai,Washing Machine Set,Washing Machine Set - Essential household item,1034.08
+198,16,25,2025-06-23,Myra Naik,myra.naik@example.com,9894136011,Ahmedabad,Shampoo - Premium,Shampoo - Premium - Essential household item,1646.81
+199,11,166,2025-04-25,Aarohi Pandey,aarohi.pandey@example.com,9089009514,Bangalore,Scissors - Premium,Scissors - Premium - Essential household item,1899.46
+200,41,224,2025-04-23,Sara Kumar,sara.kumar@example.com,9407356562,Hyderabad,Refrigerator Pack,Refrigerator Pack - Essential household item,1690.91
+201,59,162,2025-07-10,Aarav Dixit,aarav.dixit@example.com,9615341802,Jaipur,Mirror - New,Mirror - New - Essential household item,135.97
+202,81,250,2025-06-26,Nitya Reddy,nitya.reddy@example.com,9606100779,Lucknow,Gas Lighter Pack,Gas Lighter Pack - Essential household item,366.52
+203,83,145,2025-07-02,Nitya Naik,nitya.naik@example.com,9880107086,Bangalore,Sticky Notes - Premium,Sticky Notes - Premium - Essential household item,482.1
+204,5,101,2025-06-14,Pari Nair,pari.nair@example.com,9332447447,Jaipur,Shampoo - New,Shampoo - New - Essential household item,1782.66
+205,38,220,2025-04-26,Aarohi Kapoor,aarohi.kapoor@example.com,9314312392,Pune,Frying Pan - New,Frying Pan - New - Essential household item,1141.0
+206,34,193,2025-07-09,Avni Rastogi,avni.rastogi@example.com,9245641588,Ahmedabad,Pencil Set,Pencil Set - Essential household item,593.87
+207,55,238,2025-04-18,Ishaan Nair,ishaan.nair@example.com,9768045202,Mumbai,Mobile Charger XL,Mobile Charger XL - Essential household item,1337.04
+208,56,26,2025-07-11,Anvi Naik,anvi.naik@example.com,9915169130,Hyderabad,Washing Machine (Combo),Washing Machine (Combo) - Essential household item,1659.03
+209,66,87,2025-05-01,Aditya Kapoor,aditya.kapoor@example.com,9972852218,Ahmedabad,Deodorant,Deodorant - Essential household item,1268.82
+210,23,15,2025-05-02,Meera Patel,meera.patel@example.com,9305451385,Kolkata,Mirror Pack,Mirror Pack - Essential household item,874.27
+211,78,161,2025-06-29,Myra Nair,myra.nair@example.com,9319718430,Delhi,Mosquito Repellent,Mosquito Repellent - Essential household item,806.24
+212,100,171,2025-04-22,Ishita Pandey,ishita.pandey@example.com,9140829094,Bhopal,Mouthwash - New,Mouthwash - New - Essential household item,537.74
+213,43,66,2025-05-17,Saanvi Mishra,saanvi.mishra@example.com,9278430920,Mumbai,Mug,Mug - Essential household item,319.69
+214,45,105,2025-07-11,Ishita Mehta,ishita.mehta@example.com,9398613942,Ahmedabad,Printer Ink - New,Printer Ink - New - Essential household item,783.8
+215,23,65,2025-05-19,Meera Patel,meera.patel@example.com,9305451385,Kolkata,Highlighter Set,Highlighter Set - Essential household item,1490.16
+216,61,102,2025-06-14,Nitya Chatterjee,nitya.chatterjee@example.com,9643450279,Hyderabad,Mobile Charger Pack,Mobile Charger Pack - Essential household item,1026.46
+217,58,193,2025-05-16,Ira Bhatt,ira.bhatt@example.com,9881749646,Bangalore,Pencil Set,Pencil Set - Essential household item,593.87
+218,23,71,2025-04-20,Meera Patel,meera.patel@example.com,9305451385,Kolkata,Sticky Notes Pack,Sticky Notes Pack - Essential household item,1300.5
+219,15,240,2025-06-05,Riya Nair,riya.nair@example.com,9101612239,Mumbai,Hair Brush Set,Hair Brush Set - Essential household item,1623.49
+220,35,109,2025-05-03,Pihu Pandey,pihu.pandey@example.com,9656947420,Hyderabad,Microwave XL,Microwave XL - Essential household item,922.19
+221,80,220,2025-06-11,Diya Deshmukh,diya.deshmukh@example.com,9586907011,Lucknow,Frying Pan - New,Frying Pan - New - Essential household item,1141.0
+222,100,45,2025-05-17,Ishita Pandey,ishita.pandey@example.com,9140829094,Bhopal,Hand Wash - Premium,Hand Wash - Premium - Essential household item,1457.2
+223,16,46,2025-05-15,Myra Naik,myra.naik@example.com,9894136011,Ahmedabad,Thermos Set,Thermos Set - Essential household item,322.85
+224,13,188,2025-05-06,Tanvi Sharma,tanvi.sharma@example.com,9889040040,Bhopal,Tissue Box XL,Tissue Box XL - Essential household item,1841.59
+225,18,19,2025-04-30,Ira Chatterjee,ira.chatterjee@example.com,9311759889,Jaipur,Notebook XL,Notebook XL - Essential household item,1173.61
+226,48,64,2025-07-13,Tanvi Joshi,tanvi.joshi@example.com,9272404934,Bangalore,Tissue Box - Premium,Tissue Box - Premium - Essential household item,53.38
+227,41,116,2025-06-16,Sara Kumar,sara.kumar@example.com,9407356562,Hyderabad,Water Bottle - Premium,Water Bottle - Premium - Essential household item,1832.52
+228,49,235,2025-06-25,Myra Reddy,myra.reddy@example.com,9616742240,Bhopal,Chalk XL,Chalk XL - Essential household item,655.91
+229,60,175,2025-06-06,Navya Joshi,navya.joshi@example.com,9208020268,Jaipur,Refrigerator XL,Refrigerator XL - Essential household item,656.3
+230,17,1,2025-06-01,Riya Pandey,riya.pandey@example.com,9467501656,Delhi,Marker Pen - New,Marker Pen - New - Essential household item,612.04
+231,38,172,2025-06-01,Aarohi Kapoor,aarohi.kapoor@example.com,9314312392,Pune,Curtains (Combo),Curtains (Combo) - Essential household item,469.72
+232,74,145,2025-05-14,Aanya Bhatt,aanya.bhatt@example.com,9423221343,Mumbai,Sticky Notes - Premium,Sticky Notes - Premium - Essential household item,482.1
+233,52,38,2025-06-22,Pari Mishra,pari.mishra@example.com,9303155861,Kolkata,Bucket Pack,Bucket Pack - Essential household item,1826.46
+234,51,49,2025-05-22,Aditya Patel,aditya.patel@example.com,9228906217,Patna,USB Cable (Combo),USB Cable (Combo) - Essential household item,800.7
+235,59,218,2025-07-02,Aarav Dixit,aarav.dixit@example.com,9615341802,Jaipur,Marker - Premium,Marker - Premium - Essential household item,1246.71
+236,13,30,2025-05-09,Tanvi Sharma,tanvi.sharma@example.com,9889040040,Bhopal,Comb (Combo),Comb (Combo) - Essential household item,661.59
+237,30,78,2025-07-01,Pihu Yadav,pihu.yadav@example.com,9205107555,Bangalore,Memory Card (Combo),Memory Card (Combo) - Essential household item,1426.09
+238,63,156,2025-04-16,Krishna Verma,krishna.verma@example.com,9042893714,Bhopal,Bluetooth Speaker - Premium,Bluetooth Speaker - Premium - Essential household item,1048.83
+239,77,18,2025-05-25,Tanvi Agarwal,tanvi.agarwal@example.com,9380603000,Nagpur,Stapler - Premium,Stapler - Premium - Essential household item,937.59
+240,32,40,2025-04-23,Aanya Bhatt,aanya.bhatt@example.com,9829651775,Chennai,Trash Bags - Premium,Trash Bags - Premium - Essential household item,1676.93
+241,35,226,2025-06-21,Pihu Pandey,pihu.pandey@example.com,9656947420,Hyderabad,Mouse - New,Mouse - New - Essential household item,241.74
+242,100,176,2025-06-04,Ishita Pandey,ishita.pandey@example.com,9140829094,Bhopal,Ruler XL,Ruler XL - Essential household item,345.37
+243,26,195,2025-05-23,Aarav Reddy,aarav.reddy@example.com,9705545619,Pune,File Folder Set,File Folder Set - Essential household item,1956.19
+244,48,24,2025-06-29,Tanvi Joshi,tanvi.joshi@example.com,9272404934,Bangalore,Face Mask (Combo),Face Mask (Combo) - Essential household item,1984.93
+245,26,175,2025-04-28,Aarav Reddy,aarav.reddy@example.com,9705545619,Pune,Refrigerator XL,Refrigerator XL - Essential household item,656.3
+246,89,246,2025-05-18,Nitya Dixit,nitya.dixit@example.com,9390349273,Lucknow,Refrigerator (Combo),Refrigerator (Combo) - Essential household item,1378.4
+247,53,140,2025-07-08,Aanya Joshi,aanya.joshi@example.com,9788856192,Bangalore,Memory Card Pack,Memory Card Pack - Essential household item,1335.72
+248,49,43,2025-06-15,Myra Reddy,myra.reddy@example.com,9616742240,Bhopal,Ceiling Fan XL,Ceiling Fan XL - Essential household item,1869.06
+249,21,94,2025-05-05,Nitya Reddy,nitya.reddy@example.com,9035965894,Ahmedabad,Broom,Broom - Essential household item,912.3
+250,27,186,2025-05-27,Krishna Sharma,krishna.sharma@example.com,9847710509,Kolkata,Eraser (Combo),Eraser (Combo) - Essential household item,1056.78
+251,58,104,2025-05-06,Ira Bhatt,ira.bhatt@example.com,9881749646,Bangalore,Pen XL,Pen XL - Essential household item,890.19
+252,1,185,2025-05-17,Ishaan Chatterjee,ishaan.chatterjee@example.com,9268756272,Ahmedabad,Duster (Combo),Duster (Combo) - Essential household item,436.73
+253,59,176,2025-04-18,Aarav Dixit,aarav.dixit@example.com,9615341802,Jaipur,Ruler XL,Ruler XL - Essential household item,345.37
+254,70,81,2025-06-20,Ira Chatterjee,ira.chatterjee@example.com,9865753090,Nagpur,Marker Pen,Marker Pen - Essential household item,643.06
+255,73,196,2025-04-26,Ira Pandey,ira.pandey@example.com,9253595709,Chennai,Spoon Set Pack,Spoon Set Pack - Essential household item,1399.91
+256,67,110,2025-06-01,Pihu Nair,pihu.nair@example.com,9622049855,Chennai,Ruler Set,Ruler Set - Essential household item,40.23
+257,56,127,2025-05-23,Anvi Naik,anvi.naik@example.com,9915169130,Hyderabad,Chair Cushion - New,Chair Cushion - New - Essential household item,1170.14
+258,27,238,2025-06-26,Krishna Sharma,krishna.sharma@example.com,9847710509,Kolkata,Mobile Charger XL,Mobile Charger XL - Essential household item,1337.04
+259,58,173,2025-06-14,Ira Bhatt,ira.bhatt@example.com,9881749646,Bangalore,Desk Organizer (Combo),Desk Organizer (Combo) - Essential household item,1417.2
+260,74,99,2025-05-10,Aanya Bhatt,aanya.bhatt@example.com,9423221343,Mumbai,Detergent Set,Detergent Set - Essential household item,826.3
+261,63,166,2025-05-31,Krishna Verma,krishna.verma@example.com,9042893714,Bhopal,Scissors - Premium,Scissors - Premium - Essential household item,1899.46
+262,98,102,2025-05-20,Tanvi Sharma,tanvi.sharma@example.com,9166263469,Indore,Mobile Charger Pack,Mobile Charger Pack - Essential household item,1026.46
+263,37,240,2025-06-17,Navya Sharma,navya.sharma@example.com,9998835531,Surat,Hair Brush Set,Hair Brush Set - Essential household item,1623.49
+264,84,30,2025-06-15,Myra Kapoor,myra.kapoor@example.com,9243794422,Kolkata,Comb (Combo),Comb (Combo) - Essential household item,661.59
+265,12,136,2025-07-06,Anaya Pandey,anaya.pandey@example.com,9224626401,Chennai,Hair Oil - Premium,Hair Oil - Premium - Essential household item,975.18
+266,45,126,2025-05-20,Ishita Mehta,ishita.mehta@example.com,9398613942,Ahmedabad,Pen Drive (Combo),Pen Drive (Combo) - Essential household item,1001.9
+267,70,8,2025-04-17,Ira Chatterjee,ira.chatterjee@example.com,9865753090,Nagpur,Umbrella - Premium,Umbrella - Premium - Essential household item,891.11
+268,53,30,2025-07-08,Aanya Joshi,aanya.joshi@example.com,9788856192,Bangalore,Comb (Combo),Comb (Combo) - Essential household item,661.59
+269,39,59,2025-05-11,Sai Mehta,sai.mehta@example.com,9685269123,Ahmedabad,Lunch Box,Lunch Box - Essential household item,1300.11
+270,14,200,2025-05-28,Navya Reddy,navya.reddy@example.com,9680175077,Indore,Mirror (Combo),Mirror (Combo) - Essential household item,1602.93
+271,61,55,2025-05-17,Nitya Chatterjee,nitya.chatterjee@example.com,9643450279,Hyderabad,Face Mask,Face Mask - Essential household item,1898.72
+272,19,169,2025-06-04,Anvi Sharma,anvi.sharma@example.com,9687122912,Kolkata,Memory Card XL,Memory Card XL - Essential household item,1922.17
+273,19,50,2025-05-04,Anvi Sharma,anvi.sharma@example.com,9687122912,Kolkata,Frying Pan - Premium,Frying Pan - Premium - Essential household item,271.15
+274,50,158,2025-06-08,Ishita Naik,ishita.naik@example.com,9772454687,Bhopal,Cloth Hanger (Combo),Cloth Hanger (Combo) - Essential household item,829.47
+275,13,242,2025-06-06,Tanvi Sharma,tanvi.sharma@example.com,9889040040,Bhopal,Paper Clips XL,Paper Clips XL - Essential household item,1508.86
+276,70,48,2025-06-09,Ira Chatterjee,ira.chatterjee@example.com,9865753090,Nagpur,USB Cable - New,USB Cable - New - Essential household item,312.34
+277,25,180,2025-06-19,Kavya Patel,kavya.patel@example.com,9516889466,Jaipur,Bucket - New,Bucket - New - Essential household item,1939.36
+278,42,5,2025-05-28,Aadhya Nair,aadhya.nair@example.com,9025501427,Lucknow,Washing Machine Set,Washing Machine Set - Essential household item,1034.08
+279,17,56,2025-04-16,Riya Pandey,riya.pandey@example.com,9467501656,Delhi,Mosquito Repellent - New,Mosquito Repellent - New - Essential household item,1005.59
+280,98,159,2025-07-05,Tanvi Sharma,tanvi.sharma@example.com,9166263469,Indore,Hand Wash - New,Hand Wash - New - Essential household item,169.0
+281,95,81,2025-05-26,Ayaan Naik,ayaan.naik@example.com,9961056843,Indore,Marker Pen,Marker Pen - Essential household item,643.06
+282,57,115,2025-04-17,Anvi Verma,anvi.verma@example.com,9571718316,Bangalore,Battery Pack Pack,Battery Pack Pack - Essential household item,1489.72
+283,54,49,2025-05-08,Kavya Sharma,kavya.sharma@example.com,9746670574,Delhi,USB Cable (Combo),USB Cable (Combo) - Essential household item,800.7
+284,4,227,2025-05-09,Navya Chatterjee,navya.chatterjee@example.com,9751490806,Mumbai,Wall Clock - Premium,Wall Clock - Premium - Essential household item,671.32
+285,9,62,2025-05-02,Pihu Nair,pihu.nair@example.com,9825970012,Chennai,Paper Clips (Combo),Paper Clips (Combo) - Essential household item,615.61
+286,59,119,2025-06-05,Aarav Dixit,aarav.dixit@example.com,9615341802,Jaipur,Marker Pen - Premium,Marker Pen - Premium - Essential household item,560.18
+287,35,230,2025-07-08,Pihu Pandey,pihu.pandey@example.com,9656947420,Hyderabad,Raincoat,Raincoat - Essential household item,277.89
+288,14,98,2025-06-09,Navya Reddy,navya.reddy@example.com,9680175077,Indore,Highlighter,Highlighter - Essential household item,1817.13
+289,38,128,2025-06-05,Aarohi Kapoor,aarohi.kapoor@example.com,9314312392,Pune,Pen - New,Pen - New - Essential household item,552.14
+290,66,51,2025-07-11,Aditya Kapoor,aditya.kapoor@example.com,9972852218,Ahmedabad,Glue Stick - New,Glue Stick - New - Essential household item,1575.34
+291,16,160,2025-05-05,Myra Naik,myra.naik@example.com,9894136011,Ahmedabad,Battery Pack,Battery Pack - Essential household item,1951.82
+292,65,60,2025-07-14,Sai Dixit,sai.dixit@example.com,9081174351,Indore,Curtains - Premium,Curtains - Premium - Essential household item,405.66
+293,76,192,2025-06-10,Aarohi Mehta,aarohi.mehta@example.com,9199110111,Pune,Tawa,Tawa - Essential household item,770.29
+294,8,93,2025-05-10,Pari Pandey,pari.pandey@example.com,9854841162,Mumbai,Memory Card,Memory Card - Essential household item,1894.57
+295,36,75,2025-06-24,Pihu Bhatt,pihu.bhatt@example.com,9230505084,Nagpur,Pencil - New,Pencil - New - Essential household item,236.87
+296,13,38,2025-06-02,Tanvi Sharma,tanvi.sharma@example.com,9889040040,Bhopal,Bucket Pack,Bucket Pack - Essential household item,1826.46
+297,72,119,2025-06-02,Aarav Mehta,aarav.mehta@example.com,9273177606,Ahmedabad,Marker Pen - Premium,Marker Pen - Premium - Essential household item,560.18
+298,52,207,2025-05-20,Pari Mishra,pari.mishra@example.com,9303155861,Kolkata,Printer Ink (Combo),Printer Ink (Combo) - Essential household item,1229.04
+299,11,211,2025-05-17,Aarohi Pandey,aarohi.pandey@example.com,9089009514,Bangalore,Lotion,Lotion - Essential household item,862.2
+300,32,200,2025-04-30,Aanya Bhatt,aanya.bhatt@example.com,9829651775,Chennai,Mirror (Combo),Mirror (Combo) - Essential household item,1602.93
