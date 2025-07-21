@@ -1,0 +1,301 @@
+transaction_id,customer_id,product_id,purchase_date,product_name,email,phone_number
+1,42,84,2025-06-19,Ceiling Fan - Premium,aadhya.nair@example.com,9025501427
+2,55,83,2025-05-24,Stapler Pack,ishaan.nair@example.com,9768045202
+3,87,214,2025-06-12,Scissors (Combo),myra.chatterjee@example.com,9779426304
+4,15,169,2025-06-25,Memory Card XL,riya.nair@example.com,9101612239
+5,78,179,2025-05-23,Broom (Combo),myra.nair@example.com,9319718430
+6,11,22,2025-07-04,Whiteboard (Combo),aarohi.pandey@example.com,9089009514
+7,79,234,2025-04-19,Power Bank Set,saanvi.bhatt@example.com,9684649805
+8,76,61,2025-05-29,Lotion Set,aarohi.mehta@example.com,9199110111
+9,74,187,2025-07-08,Earphones - New,aanya.bhatt@example.com,9423221343
+10,14,28,2025-04-24,Washing Machine - Premium,navya.reddy@example.com,9680175077
+11,71,61,2025-06-24,Lotion Set,pari.reddy@example.com,9416768670
+12,32,69,2025-05-02,Pillow Pack,aanya.bhatt@example.com,9829651775
+13,56,70,2025-04-23,Water Bottle Set,anvi.naik@example.com,9915169130
+14,88,2,2025-07-06,Laptop Stand - New,riya.verma@example.com,9086280286
+15,45,37,2025-05-23,Bluetooth Speaker (Combo),ishita.mehta@example.com,9398613942
+16,31,57,2025-07-07,Gas Lighter - Premium,myra.deshmukh@example.com,9870583151
+17,80,202,2025-05-22,Mouse (Combo),diya.deshmukh@example.com,9586907011
+18,64,157,2025-04-18,Mixer Grinder Pack,aarav.pandey@example.com,9306203044
+19,64,215,2025-06-19,Wall Clock XL,aarav.pandey@example.com,9306203044
+20,35,224,2025-05-11,Refrigerator Pack,pihu.pandey@example.com,9656947420
+21,37,183,2025-05-06,Trash Bags,navya.sharma@example.com,9998835531
+22,19,196,2025-07-12,Spoon Set Pack,anvi.sharma@example.com,9687122912
+23,30,190,2025-04-23,Razor Pack,pihu.yadav@example.com,9205107555
+24,50,113,2025-06-24,Dustbin - Premium,ishita.naik@example.com,9772454687
+25,86,102,2025-04-26,Mobile Charger Pack,meera.reddy@example.com,9945196338
+26,46,31,2025-07-05,Water Bottle,ayaan.mehta@example.com,9758512344
+27,19,203,2025-06-15,Laundry Bag - New,anvi.sharma@example.com,9687122912
+28,13,26,2025-07-05,Washing Machine (Combo),tanvi.sharma@example.com,9889040040
+29,99,234,2025-04-20,Power Bank Set,arjun.chatterjee@example.com,9299110199
+30,93,1,2025-05-12,Marker Pen - New,kavya.dixit@example.com,9877341291
+31,97,239,2025-07-12,Mobile Charger - New,aarav.choudhary@example.com,9191767034
+32,29,230,2025-07-05,Raincoat,anaya.choudhary@example.com,9608561711
+33,95,130,2025-06-22,Thermos,ayaan.naik@example.com,9961056843
+34,74,230,2025-06-03,Raincoat,aanya.bhatt@example.com,9423221343
+35,27,202,2025-06-09,Mouse (Combo),krishna.sharma@example.com,9847710509
+36,84,212,2025-05-08,Microwave (Combo),myra.kapoor@example.com,9243794422
+37,88,203,2025-05-19,Laundry Bag - New,riya.verma@example.com,9086280286
+38,55,49,2025-05-22,USB Cable (Combo),ishaan.nair@example.com,9768045202
+39,67,220,2025-06-01,Frying Pan - New,pihu.nair@example.com,9622049855
+40,94,80,2025-05-13,Thermos (Combo),ishaan.nair@example.com,9871294438
+41,51,135,2025-06-14,Mouthwash Pack,aditya.patel@example.com,9228906217
+42,46,10,2025-05-16,Water Bottle - New,ayaan.mehta@example.com,9758512344
+43,83,18,2025-05-08,Stapler - Premium,nitya.naik@example.com,9880107086
+44,97,161,2025-05-06,Mosquito Repellent,aarav.choudhary@example.com,9191767034
+45,32,110,2025-07-02,Ruler Set,aanya.bhatt@example.com,9829651775
+46,66,63,2025-06-24,Thermos Pack,aditya.kapoor@example.com,9972852218
+47,87,155,2025-05-11,Shaving Cream XL,myra.chatterjee@example.com,9779426304
+48,49,186,2025-05-18,Eraser (Combo),myra.reddy@example.com,9616742240
+49,44,175,2025-05-30,Refrigerator XL,ira.mehta@example.com,9301634576
+50,38,66,2025-04-19,Mug,aarohi.kapoor@example.com,9314312392
+51,1,77,2025-05-24,Extension Board Pack,ishaan.chatterjee@example.com,9268756272
+52,93,221,2025-07-02,Tawa Pack,kavya.dixit@example.com,9877341291
+53,82,11,2025-06-03,Table Fan,anvi.kapoor@example.com,9145708507
+54,68,207,2025-05-29,Printer Ink (Combo),aditya.nair@example.com,9854495246
+55,32,193,2025-06-25,Pencil Set,aanya.bhatt@example.com,9829651775
+56,83,107,2025-05-18,Microwave Set,nitya.naik@example.com,9880107086
+57,92,144,2025-06-19,Microwave - Premium,vivaan.agarwal@example.com,9575415411
+58,15,108,2025-04-18,Laptop Stand Set,riya.nair@example.com,9101612239
+59,70,111,2025-04-27,Blanket Pack,ira.chatterjee@example.com,9865753090
+60,71,125,2025-04-27,Blanket Set,pari.reddy@example.com,9416768670
+61,73,163,2025-05-02,Razor - New,ira.pandey@example.com,9253595709
+62,48,36,2025-05-18,Blanket - New,tanvi.joshi@example.com,9272404934
+63,18,64,2025-06-17,Tissue Box - Premium,ira.chatterjee@example.com,9311759889
+64,92,1,2025-06-04,Marker Pen - New,vivaan.agarwal@example.com,9575415411
+65,40,122,2025-05-06,Soap - Premium,aanya.mishra@example.com,9308914773
+66,14,227,2025-04-20,Wall Clock - Premium,navya.reddy@example.com,9680175077
+67,91,141,2025-05-28,Toothpaste Set,diya.bhatt@example.com,9569573794
+68,17,153,2025-07-05,Hair Oil - New,riya.pandey@example.com,9467501656
+69,44,180,2025-05-09,Bucket - New,ira.mehta@example.com,9301634576
+70,19,83,2025-06-02,Stapler Pack,anvi.sharma@example.com,9687122912
+71,9,114,2025-06-02,Trash Bags XL,pihu.nair@example.com,9825970012
+72,15,142,2025-06-22,Paper Clips Pack,riya.nair@example.com,9101612239
+73,35,235,2025-05-18,Chalk XL,pihu.pandey@example.com,9656947420
+74,100,39,2025-06-15,Wall Clock Pack,ishita.pandey@example.com,9140829094
+75,31,98,2025-05-24,Highlighter,myra.deshmukh@example.com,9870583151
+76,35,22,2025-06-14,Whiteboard (Combo),pihu.pandey@example.com,9656947420
+77,8,72,2025-05-11,Pencil (Combo),pari.pandey@example.com,9854841162
+78,1,208,2025-05-02,Highlighter Pack,ishaan.chatterjee@example.com,9268756272
+79,80,108,2025-07-07,Laptop Stand Set,diya.deshmukh@example.com,9586907011
+80,54,204,2025-04-20,Sticky Notes (Combo),kavya.sharma@example.com,9746670574
+81,39,69,2025-07-11,Pillow Pack,sai.mehta@example.com,9685269123
+82,80,234,2025-05-11,Power Bank Set,diya.deshmukh@example.com,9586907011
+83,92,106,2025-04-22,Dish Wash - New,vivaan.agarwal@example.com,9575415411
+84,74,173,2025-05-04,Desk Organizer (Combo),aanya.bhatt@example.com,9423221343
+85,5,225,2025-06-26,Blanket XL,pari.nair@example.com,9332447447
+86,7,153,2025-05-10,Hair Oil - New,ishita.bhatt@example.com,9408084863
+87,19,89,2025-06-23,Room Freshener XL,anvi.sharma@example.com,9687122912
+88,29,51,2025-04-19,Glue Stick - New,anaya.choudhary@example.com,9608561711
+89,40,140,2025-04-20,Memory Card Pack,aanya.mishra@example.com,9308914773
+90,24,56,2025-04-22,Mosquito Repellent - New,reyansh.mishra@example.com,9426154874
+91,50,234,2025-06-14,Power Bank Set,ishita.naik@example.com,9772454687
+92,73,57,2025-05-26,Gas Lighter - Premium,ira.pandey@example.com,9253595709
+93,94,36,2025-05-22,Blanket - New,ishaan.nair@example.com,9871294438
+94,84,239,2025-05-18,Mobile Charger - New,myra.kapoor@example.com,9243794422
+95,99,113,2025-07-10,Dustbin - Premium,arjun.chatterjee@example.com,9299110199
+96,48,223,2025-07-07,Sticky Notes,tanvi.joshi@example.com,9272404934
+97,56,209,2025-04-25,Iron - Premium,anvi.naik@example.com,9915169130
+98,45,78,2025-06-21,Memory Card (Combo),ishita.mehta@example.com,9398613942
+99,82,25,2025-05-23,Shampoo - Premium,anvi.kapoor@example.com,9145708507
+100,96,57,2025-07-11,Gas Lighter - Premium,meera.bhatt@example.com,9705946928
+101,53,244,2025-06-08,Gas Lighter,aanya.joshi@example.com,9788856192
+102,87,224,2025-06-15,Refrigerator Pack,myra.chatterjee@example.com,9779426304
+103,48,121,2025-05-23,Earphones Pack,tanvi.joshi@example.com,9272404934
+104,14,154,2025-07-06,Tissue Box - New,navya.reddy@example.com,9680175077
+105,83,2,2025-07-11,Laptop Stand - New,nitya.naik@example.com,9880107086
+106,17,121,2025-05-07,Earphones Pack,riya.pandey@example.com,9467501656
+107,67,28,2025-04-24,Washing Machine - Premium,pihu.nair@example.com,9622049855
+108,50,4,2025-07-12,Room Freshener - Premium,ishita.naik@example.com,9772454687
+109,8,150,2025-05-31,Mattress Pack,pari.pandey@example.com,9854841162
+110,53,14,2025-06-05,Nail Cutter,aanya.joshi@example.com,9788856192
+111,65,25,2025-04-22,Shampoo - Premium,sai.dixit@example.com,9081174351
+112,71,26,2025-05-09,Washing Machine (Combo),pari.reddy@example.com,9416768670
+113,95,193,2025-04-24,Pencil Set,ayaan.naik@example.com,9961056843
+114,61,228,2025-06-01,Eraser,nitya.chatterjee@example.com,9643450279
+115,95,77,2025-05-26,Extension Board Pack,ayaan.naik@example.com,9961056843
+116,47,10,2025-06-30,Water Bottle - New,krishna.mehta@example.com,9812569374
+117,55,32,2025-05-07,Laptop Stand (Combo),ishaan.nair@example.com,9768045202
+118,53,82,2025-05-25,Slippers XL,aanya.joshi@example.com,9788856192
+119,77,181,2025-05-29,Keyboard Pack,tanvi.agarwal@example.com,9380603000
+120,50,103,2025-04-25,Memory Card Set,ishita.naik@example.com,9772454687
+121,66,24,2025-05-09,Face Mask (Combo),aditya.kapoor@example.com,9972852218
+122,85,239,2025-05-10,Mobile Charger - New,aadhya.joshi@example.com,9542377383
+123,21,125,2025-06-04,Blanket Set,nitya.reddy@example.com,9035965894
+124,41,149,2025-06-08,Desk Organizer Set,sara.kumar@example.com,9407356562
+125,91,236,2025-05-02,Pencil Pack,diya.bhatt@example.com,9569573794
+126,81,139,2025-07-06,Electric Kettle,nitya.reddy@example.com,9606100779
+127,53,228,2025-04-28,Eraser,aanya.joshi@example.com,9788856192
+128,34,188,2025-07-04,Tissue Box XL,avni.rastogi@example.com,9245641588
+129,34,61,2025-05-28,Lotion Set,avni.rastogi@example.com,9245641588
+130,86,86,2025-06-17,Bluetooth Speaker,meera.reddy@example.com,9945196338
+131,58,136,2025-04-19,Hair Oil - Premium,ira.bhatt@example.com,9881749646
+132,48,192,2025-04-24,Tawa,tanvi.joshi@example.com,9272404934
+133,19,60,2025-06-28,Curtains - Premium,anvi.sharma@example.com,9687122912
+134,100,18,2025-05-12,Stapler - Premium,ishita.pandey@example.com,9140829094
+135,46,170,2025-04-24,Socks - Premium,ayaan.mehta@example.com,9758512344
+136,3,79,2025-05-26,Trash Bags (Combo),vivaan.bhatt@example.com,9465970493
+137,38,153,2025-06-26,Hair Oil - New,aarohi.kapoor@example.com,9314312392
+138,54,5,2025-04-26,Washing Machine Set,kavya.sharma@example.com,9746670574
+139,41,171,2025-05-16,Mouthwash - New,sara.kumar@example.com,9407356562
+140,85,225,2025-06-03,Blanket XL,aadhya.joshi@example.com,9542377383
+141,77,123,2025-07-14,Eraser XL,tanvi.agarwal@example.com,9380603000
+142,98,180,2025-04-29,Bucket - New,tanvi.sharma@example.com,9166263469
+143,4,111,2025-05-30,Blanket Pack,navya.chatterjee@example.com,9751490806
+144,15,101,2025-05-28,Shampoo - New,riya.nair@example.com,9101612239
+145,42,143,2025-06-11,Hair Oil,aadhya.nair@example.com,9025501427
+146,14,106,2025-06-18,Dish Wash - New,navya.reddy@example.com,9680175077
+147,67,107,2025-06-14,Microwave Set,pihu.nair@example.com,9622049855
+148,61,127,2025-06-23,Chair Cushion - New,nitya.chatterjee@example.com,9643450279
+149,65,177,2025-06-09,Face Mask - New,sai.dixit@example.com,9081174351
+150,59,60,2025-06-09,Curtains - Premium,aarav.dixit@example.com,9615341802
+151,32,95,2025-05-07,LED Bulb - New,aanya.bhatt@example.com,9829651775
+152,50,48,2025-06-30,USB Cable - New,ishita.naik@example.com,9772454687
+153,6,59,2025-06-03,Lunch Box,tanvi.sharma@example.com,9187753781
+154,60,45,2025-05-14,Hand Wash - Premium,navya.joshi@example.com,9208020268
+155,83,40,2025-05-27,Trash Bags - Premium,nitya.naik@example.com,9880107086
+156,23,168,2025-05-30,Hair Oil (Combo),meera.patel@example.com,9305451385
+157,68,142,2025-07-14,Paper Clips Pack,aditya.nair@example.com,9854495246
+158,17,153,2025-06-06,Hair Oil - New,riya.pandey@example.com,9467501656
+159,35,130,2025-04-29,Thermos,pihu.pandey@example.com,9656947420
+160,64,74,2025-06-08,Tawa Set,aarav.pandey@example.com,9306203044
+161,93,62,2025-07-13,Paper Clips (Combo),kavya.dixit@example.com,9877341291
+162,22,81,2025-05-17,Marker Pen,tanvi.kapoor@example.com,9016847050
+163,86,205,2025-07-07,Lunch Box - New,meera.reddy@example.com,9945196338
+164,86,33,2025-06-04,Laundry Bag - Premium,meera.reddy@example.com,9945196338
+165,4,194,2025-06-22,Electric Kettle XL,navya.chatterjee@example.com,9751490806
+166,33,7,2025-05-24,Scissors XL,krishna.mehta@example.com,9574441008
+167,72,91,2025-05-17,Keyboard - Premium,aarav.mehta@example.com,9273177606
+168,40,179,2025-05-29,Broom (Combo),aanya.mishra@example.com,9308914773
+169,60,98,2025-06-11,Highlighter,navya.joshi@example.com,9208020268
+170,91,215,2025-04-22,Wall Clock XL,diya.bhatt@example.com,9569573794
+171,59,226,2025-06-16,Mouse - New,aarav.dixit@example.com,9615341802
+172,19,215,2025-06-05,Wall Clock XL,anvi.sharma@example.com,9687122912
+173,22,243,2025-05-29,Duster,tanvi.kapoor@example.com,9016847050
+174,95,49,2025-06-01,USB Cable (Combo),ayaan.naik@example.com,9961056843
+175,37,204,2025-05-23,Sticky Notes (Combo),navya.sharma@example.com,9998835531
+176,1,233,2025-05-01,Toothpaste - New,ishaan.chatterjee@example.com,9268756272
+177,78,219,2025-06-29,Pen Drive - New,myra.nair@example.com,9319718430
+178,77,53,2025-06-15,Pillow - New,tanvi.agarwal@example.com,9380603000
+179,46,160,2025-06-24,Battery Pack,ayaan.mehta@example.com,9758512344
+180,1,223,2025-06-25,Sticky Notes,ishaan.chatterjee@example.com,9268756272
+181,95,233,2025-07-04,Toothpaste - New,ayaan.naik@example.com,9961056843
+182,92,163,2025-05-18,Razor - New,vivaan.agarwal@example.com,9575415411
+183,77,156,2025-07-07,Bluetooth Speaker - Premium,tanvi.agarwal@example.com,9380603000
+184,50,177,2025-05-16,Face Mask - New,ishita.naik@example.com,9772454687
+185,61,63,2025-06-03,Thermos Pack,nitya.chatterjee@example.com,9643450279
+186,58,192,2025-05-14,Tawa,ira.bhatt@example.com,9881749646
+187,34,170,2025-06-02,Socks - Premium,avni.rastogi@example.com,9245641588
+188,61,24,2025-07-04,Face Mask (Combo),nitya.chatterjee@example.com,9643450279
+189,52,9,2025-06-07,Keyboard - New,pari.mishra@example.com,9303155861
+190,55,216,2025-06-22,Memory Card - New,ishaan.nair@example.com,9768045202
+191,61,244,2025-05-11,Gas Lighter,nitya.chatterjee@example.com,9643450279
+192,45,48,2025-04-23,USB Cable - New,ishita.mehta@example.com,9398613942
+193,76,102,2025-07-10,Mobile Charger Pack,aarohi.mehta@example.com,9199110111
+194,39,106,2025-06-28,Dish Wash - New,sai.mehta@example.com,9685269123
+195,49,190,2025-05-21,Razor Pack,myra.reddy@example.com,9616742240
+196,79,249,2025-05-18,Paper Clips - New,saanvi.bhatt@example.com,9684649805
+197,43,5,2025-05-03,Washing Machine Set,saanvi.mishra@example.com,9278430920
+198,16,25,2025-06-23,Shampoo - Premium,myra.naik@example.com,9894136011
+199,11,166,2025-04-25,Scissors - Premium,aarohi.pandey@example.com,9089009514
+200,41,224,2025-04-23,Refrigerator Pack,sara.kumar@example.com,9407356562
+201,59,162,2025-07-10,Mirror - New,aarav.dixit@example.com,9615341802
+202,81,250,2025-06-26,Gas Lighter Pack,nitya.reddy@example.com,9606100779
+203,83,145,2025-07-02,Sticky Notes - Premium,nitya.naik@example.com,9880107086
+204,5,101,2025-06-14,Shampoo - New,pari.nair@example.com,9332447447
+205,38,220,2025-04-26,Frying Pan - New,aarohi.kapoor@example.com,9314312392
+206,34,193,2025-07-09,Pencil Set,avni.rastogi@example.com,9245641588
+207,55,238,2025-04-18,Mobile Charger XL,ishaan.nair@example.com,9768045202
+208,56,26,2025-07-11,Washing Machine (Combo),anvi.naik@example.com,9915169130
+209,66,87,2025-05-01,Deodorant,aditya.kapoor@example.com,9972852218
+210,23,15,2025-05-02,Mirror Pack,meera.patel@example.com,9305451385
+211,78,161,2025-06-29,Mosquito Repellent,myra.nair@example.com,9319718430
+212,100,171,2025-04-22,Mouthwash - New,ishita.pandey@example.com,9140829094
+213,43,66,2025-05-17,Mug,saanvi.mishra@example.com,9278430920
+214,45,105,2025-07-11,Printer Ink - New,ishita.mehta@example.com,9398613942
+215,23,65,2025-05-19,Highlighter Set,meera.patel@example.com,9305451385
+216,61,102,2025-06-14,Mobile Charger Pack,nitya.chatterjee@example.com,9643450279
+217,58,193,2025-05-16,Pencil Set,ira.bhatt@example.com,9881749646
+218,23,71,2025-04-20,Sticky Notes Pack,meera.patel@example.com,9305451385
+219,15,240,2025-06-05,Hair Brush Set,riya.nair@example.com,9101612239
+220,35,109,2025-05-03,Microwave XL,pihu.pandey@example.com,9656947420
+221,80,220,2025-06-11,Frying Pan - New,diya.deshmukh@example.com,9586907011
+222,100,45,2025-05-17,Hand Wash - Premium,ishita.pandey@example.com,9140829094
+223,16,46,2025-05-15,Thermos Set,myra.naik@example.com,9894136011
+224,13,188,2025-05-06,Tissue Box XL,tanvi.sharma@example.com,9889040040
+225,18,19,2025-04-30,Notebook XL,ira.chatterjee@example.com,9311759889
+226,48,64,2025-07-13,Tissue Box - Premium,tanvi.joshi@example.com,9272404934
+227,41,116,2025-06-16,Water Bottle - Premium,sara.kumar@example.com,9407356562
+228,49,235,2025-06-25,Chalk XL,myra.reddy@example.com,9616742240
+229,60,175,2025-06-06,Refrigerator XL,navya.joshi@example.com,9208020268
+230,17,1,2025-06-01,Marker Pen - New,riya.pandey@example.com,9467501656
+231,38,172,2025-06-01,Curtains (Combo),aarohi.kapoor@example.com,9314312392
+232,74,145,2025-05-14,Sticky Notes - Premium,aanya.bhatt@example.com,9423221343
+233,52,38,2025-06-22,Bucket Pack,pari.mishra@example.com,9303155861
+234,51,49,2025-05-22,USB Cable (Combo),aditya.patel@example.com,9228906217
+235,59,218,2025-07-02,Marker - Premium,aarav.dixit@example.com,9615341802
+236,13,30,2025-05-09,Comb (Combo),tanvi.sharma@example.com,9889040040
+237,30,78,2025-07-01,Memory Card (Combo),pihu.yadav@example.com,9205107555
+238,63,156,2025-04-16,Bluetooth Speaker - Premium,krishna.verma@example.com,9042893714
+239,77,18,2025-05-25,Stapler - Premium,tanvi.agarwal@example.com,9380603000
+240,32,40,2025-04-23,Trash Bags - Premium,aanya.bhatt@example.com,9829651775
+241,35,226,2025-06-21,Mouse - New,pihu.pandey@example.com,9656947420
+242,100,176,2025-06-04,Ruler XL,ishita.pandey@example.com,9140829094
+243,26,195,2025-05-23,File Folder Set,aarav.reddy@example.com,9705545619
+244,48,24,2025-06-29,Face Mask (Combo),tanvi.joshi@example.com,9272404934
+245,26,175,2025-04-28,Refrigerator XL,aarav.reddy@example.com,9705545619
+246,89,246,2025-05-18,Refrigerator (Combo),nitya.dixit@example.com,9390349273
+247,53,140,2025-07-08,Memory Card Pack,aanya.joshi@example.com,9788856192
+248,49,43,2025-06-15,Ceiling Fan XL,myra.reddy@example.com,9616742240
+249,21,94,2025-05-05,Broom,nitya.reddy@example.com,9035965894
+250,27,186,2025-05-27,Eraser (Combo),krishna.sharma@example.com,9847710509
+251,58,104,2025-05-06,Pen XL,ira.bhatt@example.com,9881749646
+252,1,185,2025-05-17,Duster (Combo),ishaan.chatterjee@example.com,9268756272
+253,59,176,2025-04-18,Ruler XL,aarav.dixit@example.com,9615341802
+254,70,81,2025-06-20,Marker Pen,ira.chatterjee@example.com,9865753090
+255,73,196,2025-04-26,Spoon Set Pack,ira.pandey@example.com,9253595709
+256,67,110,2025-06-01,Ruler Set,pihu.nair@example.com,9622049855
+257,56,127,2025-05-23,Chair Cushion - New,anvi.naik@example.com,9915169130
+258,27,238,2025-06-26,Mobile Charger XL,krishna.sharma@example.com,9847710509
+259,58,173,2025-06-14,Desk Organizer (Combo),ira.bhatt@example.com,9881749646
+260,74,99,2025-05-10,Detergent Set,aanya.bhatt@example.com,9423221343
+261,63,166,2025-05-31,Scissors - Premium,krishna.verma@example.com,9042893714
+262,98,102,2025-05-20,Mobile Charger Pack,tanvi.sharma@example.com,9166263469
+263,37,240,2025-06-17,Hair Brush Set,navya.sharma@example.com,9998835531
+264,84,30,2025-06-15,Comb (Combo),myra.kapoor@example.com,9243794422
+265,12,136,2025-07-06,Hair Oil - Premium,anaya.pandey@example.com,9224626401
+266,45,126,2025-05-20,Pen Drive (Combo),ishita.mehta@example.com,9398613942
+267,70,8,2025-04-17,Umbrella - Premium,ira.chatterjee@example.com,9865753090
+268,53,30,2025-07-08,Comb (Combo),aanya.joshi@example.com,9788856192
+269,39,59,2025-05-11,Lunch Box,sai.mehta@example.com,9685269123
+270,14,200,2025-05-28,Mirror (Combo),navya.reddy@example.com,9680175077
+271,61,55,2025-05-17,Face Mask,nitya.chatterjee@example.com,9643450279
+272,19,169,2025-06-04,Memory Card XL,anvi.sharma@example.com,9687122912
+273,19,50,2025-05-04,Frying Pan - Premium,anvi.sharma@example.com,9687122912
+274,50,158,2025-06-08,Cloth Hanger (Combo),ishita.naik@example.com,9772454687
+275,13,242,2025-06-06,Paper Clips XL,tanvi.sharma@example.com,9889040040
+276,70,48,2025-06-09,USB Cable - New,ira.chatterjee@example.com,9865753090
+277,25,180,2025-06-19,Bucket - New,kavya.patel@example.com,9516889466
+278,42,5,2025-05-28,Washing Machine Set,aadhya.nair@example.com,9025501427
+279,17,56,2025-04-16,Mosquito Repellent - New,riya.pandey@example.com,9467501656
+280,98,159,2025-07-05,Hand Wash - New,tanvi.sharma@example.com,9166263469
+281,95,81,2025-05-26,Marker Pen,ayaan.naik@example.com,9961056843
+282,57,115,2025-04-17,Battery Pack Pack,anvi.verma@example.com,9571718316
+283,54,49,2025-05-08,USB Cable (Combo),kavya.sharma@example.com,9746670574
+284,4,227,2025-05-09,Wall Clock - Premium,navya.chatterjee@example.com,9751490806
+285,9,62,2025-05-02,Paper Clips (Combo),pihu.nair@example.com,9825970012
+286,59,119,2025-06-05,Marker Pen - Premium,aarav.dixit@example.com,9615341802
+287,35,230,2025-07-08,Raincoat,pihu.pandey@example.com,9656947420
+288,14,98,2025-06-09,Highlighter,navya.reddy@example.com,9680175077
+289,38,128,2025-06-05,Pen - New,aarohi.kapoor@example.com,9314312392
+290,66,51,2025-07-11,Glue Stick - New,aditya.kapoor@example.com,9972852218
+291,16,160,2025-05-05,Battery Pack,myra.naik@example.com,9894136011
+292,65,60,2025-07-14,Curtains - Premium,sai.dixit@example.com,9081174351
+293,76,192,2025-06-10,Tawa,aarohi.mehta@example.com,9199110111
+294,8,93,2025-05-10,Memory Card,pari.pandey@example.com,9854841162
+295,36,75,2025-06-24,Pencil - New,pihu.bhatt@example.com,9230505084
+296,13,38,2025-06-02,Bucket Pack,tanvi.sharma@example.com,9889040040
+297,72,119,2025-06-02,Marker Pen - Premium,aarav.mehta@example.com,9273177606
+298,52,207,2025-05-20,Printer Ink (Combo),pari.mishra@example.com,9303155861
+299,11,211,2025-05-17,Lotion,aarohi.pandey@example.com,9089009514
+300,32,200,2025-04-30,Mirror (Combo),aanya.bhatt@example.com,9829651775
