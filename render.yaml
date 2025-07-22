@@ -1,7 +1,0 @@
-
-services:
-  - type: web
-    name: shopsmart-api
-    env: python
-    buildCommand: ""
-    startCommand: python main.py
