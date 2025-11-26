@@ -12,9 +12,22 @@ app.register_blueprint(customer_bp)
 app.register_blueprint(product_bp)
 app.register_blueprint(transaction_bp)
 
-@app.route('/')
-def home():
-    return jsonify({"message": "ShopSmart Flask API is working"})
+@app.route("/")
+def index():
+    return """
+    <h1>🛍️ ShopSmart API</h1>
+    <p>Backend is running successfully on Render.</p>
+    <ul>
+        <li>GET /customers</li>
+        <li>POST /customers</li>
+        <li>GET /products</li>
+        <li>POST /products</li>
+        <li>GET /transactions</li>
+        <li>POST /transactions</li>
+        <li>POST /recommend</li>
+    </ul>
+    <p>Check README on GitHub for full details.</p>
+    """
 
 if __name__ == "__main__":
     import os
