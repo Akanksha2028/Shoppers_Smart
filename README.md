@@ -45,32 +45,40 @@ ShoppersSmart/
 │   └── transactions.csv
 ```
 
-## ⚡ API Endpoints
+## 🧑‍💼 Customer APIs
 
-### 👤 Customer APIs
-POST /customers  
-GET /customers  
-GET /customers/<id>  
-PUT /customers/<id>  
-DELETE /customers/<id>  
+**POST** `/customers`  
+**GET** `/customers`  
+**GET** `/customers/<id>`  
+**PUT** `/customers/<id>`  
+**DELETE** `/customers/<id>`  
 
-### 📦 Product APIs
-POST /products  
-GET /products  
-GET /products/<id>  
-PUT /products/<id>  
-DELETE /products/<id>  
 
-### 💳 Transaction APIs
-POST /transactions  
-GET /transactions  
-GET /transactions/<id>  
-PUT /transactions/<id>  
-DELETE /transactions/<id>  
+## 📦 Product APIs
 
-### 🎯 Recommendation API
-POST /recommend  
-Example Request:
+**POST** `/products`  
+**GET** `/products`  
+**GET** `/products/<id>`  
+**PUT** `/products/<id>`  
+**DELETE** `/products/<id>`  
+
+
+## 💳 Transaction APIs
+
+**POST** `/transactions`  
+**GET** `/transactions`  
+**GET** `/transactions/<id>`  
+**PUT** `/transactions/<id>`  
+**DELETE** `/transactions/<id>`  
+
+
+## 🎯 Recommendation API
+
+**POST** `/recommend`
+
+📌 **Example Request:**
+
+```json
 {
   "customer_id": 253
 }
