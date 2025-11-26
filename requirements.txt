@@ -1,4 +1,6 @@
-Flask
-Flask-SQLAlchemy
+flask
+flask_sqlalchemy
 pandas
-mysqlclient
+pymysql
+python-dotenv
+gunicorn
