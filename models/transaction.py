@@ -1,14 +1,17 @@
-from sqlalchemy import Column, Integer, ForeignKey, Date
-import sys
-import os
+from database import db
 
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
-
-from database import Base  
-
-class Transaction(Base):
+class Transaction(db.Model):
     __tablename__ = 'transactions'
-    transaction_id = Column(Integer, primary_key=True, index=True)
-    customer_id = Column(Integer, ForeignKey('customers.customer_id'))
-    product_id = Column(Integer, ForeignKey('products.product_id'))
-    purchase_date = Column(Date)
+
+    transaction_id = db.Column(db.Integer, primary_key=True)
+    customer_id = db.Column(db.Integer, db.ForeignKey('customers.customer_id'))
+    product_id = db.Column(db.Integer, db.ForeignKey('products.product_id'))
+    quantity = db.Column(db.Integer, nullable=False, default=1)
+
+    def to_dict(self):
+        return {
+            "transaction_id": self.transaction_id,
+            "customer_id": self.customer_id,
+            "product_id": self.product_id,
+            "quantity": self.quantity
+        }

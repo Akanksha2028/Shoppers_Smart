@@ -1,15 +1,17 @@
-from sqlalchemy import Column, Integer, String, Float
-import sys
-import os
+from database import db
 
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
-
-from database import Base  
-
-class Product(Base):
+class Product(db.Model):
     __tablename__ = 'products'
 
-    product_id = Column(Integer, primary_key=True, index=True)
-    name = Column(String(100))
-    category = Column(String(100))
-    price = Column(Float)
+    product_id = db.Column(db.Integer, primary_key=True)
+    product_name = db.Column(db.String(100))      
+    description = db.Column(db.String(255))
+    price = db.Column(db.Float)
+
+    def to_dict(self):
+        return {
+            "product_id": self.product_id,
+            "product_name": self.product_name,
+            "description": self.description,
+            "price": self.price
+        }

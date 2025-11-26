@@ -1,90 +1,115 @@
-import sys, os
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
-
 from flask import Blueprint, request, jsonify
-import mysql.connector
-from models.customers import Customer
-from database import SessionLocal       
+from database import db
+from models.customer import Customer
+from sqlalchemy.exc import IntegrityError
+from sqlalchemy import func
 
-router = Blueprint('customer', __name__)
+customer_bp = Blueprint("customer_bp", __name__)
 
-@router.route('/customers',methods=['POST'])
-def add_customer():
-    db=SessionLocal()
-    data=request.json
-    customer = Customer(name = data.get('name'),
-                        email = data.get('email'),
-                        phone_no = data.get('phone_no'),
-                        location = data.get('location'))
-    db.add(customer)
-    db.commit()
-    db.refresh(customer)
-    db.close()
-    return jsonify({"customer_id":customer.customer_id})
-
-@router.route('/customers',methods = ['GET'])
-def get_all():
-    db = SessionLocal()
-    customers = db.query(Customer).all()
-    db.close()
-    return jsonify([
-        {
-            "customer_id":c.customer_id,
-            "name":c.name,
-            "email":c.email,
-            "phone_no":c.phone_no,
-            "location":c.location
-        }for c in customers
-    ])
-
-@router.route('/customers/<int:customer_id>',methods = ['GET'])
-def get_by_id(customer_id):
-    db=SessionLocal()
-    customer = db.query(Customer).get(customer_id)
-    db.close()
-    if customer:
-        return jsonify({
-            "customer_id": customer.customer_id,
-            "name": customer.name,
-            "email": customer.email,
-            "phone_no": customer.phone_no,
-            "location":customer.location
+@customer_bp.route("/customers", methods=["GET"])
+def get_customers():
+    customers = Customer.query.all()
+    result = []
+    for c in customers:
+        result.append({
+            "customer_id": c.customer_id,
+            "name": c.name,
+            "email": c.email,
+            "phone": c.phone_number,
+            "location": c.location
         })
-    return jsonify({"error": "Customer not found"}), 404
+    return jsonify(result)
 
-@router.route('/customers/<int:customer_id>',methods=['PUT'])
-def update(customer_id):
-    db=SessionLocal()
-    customer = db.query(Customer).get(customer_id)
-    if not customer:
-        db.close()
-        return jsonify ({"error":"customer not found"}),404
-    data = request.json
-    customer.name = data.get('name', customer.name)
-    customer.email = data.get('email', customer.email)
-    customer.phone_no = data.get('phone_no', customer.phone_no)
-    customer.location = data.get('location',customer.location)
 
-    db.commit()
-    db.refresh(customer)
-    db.close()
+@customer_bp.route("/customers/<int:id>", methods=["GET"])
+def get_customer(id):
+    c = Customer.query.get(id)
+    if not c:
+        return jsonify({"error": "Customer not found"}), 404
+
     return jsonify({
-        "customer_id": customer.customer_id,
-        "name": customer.name,
-        "email": customer.email,
-        "phone_no": customer.phone_no,
-        "location": customer.location
+        "customer_id": c.customer_id,
+        "name": c.name,
+        "email": c.email,
+        "phone": c.phone_number,
+        "location": c.location
     })
 
-@router.route('/customers/<int:customer_id>', methods=['DELETE'])
-def delete_customer(customer_id):
-    db = SessionLocal()
-    customer = db.query(customer).get(customer_id)
-    if not customer:
-        db.close()
-        return jsonify({"error": "customer not found"}), 404
 
-    db.delete(customer)
-    db.commit()
-    db.close()
-    return jsonify({"message": "customer deleted"})    
+@customer_bp.route("/customers", methods=["POST"])
+def add_customer():
+    data = request.get_json() or {}
+
+    name = data.get("name")
+    email = data.get("email")
+    location = data.get("location")
+    phone = data.get("phone") or data.get("phone_number")
+
+    if not name:
+        return jsonify({"error": "name is required"}), 400
+
+    customer_id = data.get("customer_id")
+    if customer_id is None:
+        max_id = db.session.query(func.max(Customer.customer_id)).scalar() or 0
+        customer_id = max_id + 1
+
+    new_customer = Customer(
+        customer_id=customer_id,
+        name=name,
+        email=email,
+        phone_number=phone,
+        location=location
+    )
+
+    try:
+        db.session.add(new_customer)
+        db.session.commit()
+        return jsonify({
+            "message": "Customer added successfully",
+            "customer": {
+                "customer_id": new_customer.customer_id,
+                "name": new_customer.name,
+                "email": new_customer.email,
+                "phone": new_customer.phone_number,
+                "location": new_customer.location
+            }
+        }), 201
+    except Exception as e:
+        db.session.rollback()
+        return jsonify({"error": str(e)}), 500
+
+@customer_bp.route("/customers/<int:id>", methods=["PUT"])
+def update_customer(id):
+    c = Customer.query.get(id)
+    if not c:
+        return jsonify({"error": "Customer not found"}), 404
+
+    data = request.get_json() or {}
+
+    if "name" in data:
+        c.name = data["name"]
+    if "email" in data:
+        c.email = data["email"]
+    if "location" in data:
+        c.location = data["location"]
+    if "phone" in data:
+        c.phone_number = data["phone"]
+
+    db.session.commit()
+    return jsonify({"message": "Customer updated successfully"})
+
+@customer_bp.route("/customers/<int:id>", methods=["DELETE"])
+def delete_customer(id):
+    c = Customer.query.get(id)
+    if not c:
+        return jsonify({"error": "Customer not found"}), 404
+
+    try:
+        db.session.delete(c)
+        db.session.commit()
+        return jsonify({"message": "Customer deleted successfully"})
+    except IntegrityError:
+        db.session.rollback()
+        return jsonify({
+            "error": "Cannot delete customer. There are transactions using this customer_id."
+        }), 400
