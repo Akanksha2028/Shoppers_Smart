@@ -18,8 +18,8 @@ It helps businesses improve product visibility, customer engagement, and sales.
 - Data Processing: Pandas  
 - API Testing: Postman  
 - Version Control: Git, GitHub  
-
 ## 📂 Project Structure
+```
 ShoppersSmart/
 │── main.py 
 │── database.py
@@ -43,6 +43,7 @@ ShoppersSmart/
 │   ├── customers.csv
 │   ├── products.csv
 │   └── transactions.csv
+```
 
 ## ⚡ API Endpoints
 
