@@ -1,4 +1,4 @@
-🛍️ ShopSmart – Location-Based Product Recommendation System
+*🛍️ ShopSmart – Location-Based Product Recommendation System*
 
 ShopSmart is a Flask-based backend system that provides location-based product recommendations by analyzing customer purchase patterns.
 It helps businesses understand what products are trending in a specific location and suggests them to similar customers.
